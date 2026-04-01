@@ -1,0 +1,7 @@
+streamlit
+nltk
+scikit-learn
+networkx
+rouge-score
+numpy
+pandas
