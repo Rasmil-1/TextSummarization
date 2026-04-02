@@ -5,3 +5,7 @@ networkx
 rouge-score
 numpy
 pandas
+textstat
+PyPDF2
+python-docx
+plotly
